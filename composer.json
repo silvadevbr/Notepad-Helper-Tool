@@ -1,0 +1,20 @@
+ {
+    "require":{
+        "php":">=7.0"
+    },
+    "authors":[
+        {
+            "name":"Silvadevbr",
+            "email":"silvadevbr@gmail.com",
+            "homepage": "https://seld.be",
+            "role": "Developer"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "App\\":"App/", 
+            "AT\\": "vendor/AT/"
+        }
+    }
+ } 
+  
